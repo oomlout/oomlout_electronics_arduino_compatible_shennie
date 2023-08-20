@@ -1,3 +1,7 @@
+working-backups/
+Backup_
+_autosave
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
