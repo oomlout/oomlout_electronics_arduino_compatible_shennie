@@ -1,6 +1,20 @@
-### Footprint positions - created on Sat Aug 26 17:56:27 2023 ###
+### Footprint positions - created on Sat Aug 26 22:35:37 2023 ###
 ### Printed by KiCad version 7.0.6
 ## Unit = mm, Angle = deg.
 ## Side : bottom
-# Ref     Val       Package                PosX       PosY       Rot  Side
+# Ref     Val             Package                                                                               PosX       PosY       Rot  Side
+C1        catuf4d716v     catuf4d716v_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt      104.4368   -32.7160  180.0000  bottom
+C2        catuf4d716v     catuf4d716v_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt      104.4368   -35.8660  180.0000  bottom
+C3        c6nf10          c6nf10_electronic_capacitor_0603_10_nano_farad                                     94.4880   -29.4640  180.0000  bottom
+C4        c6nf100         c6nf100_electronic_capacitor_0603_100_nano_farad                                   54.0890   -53.3400  180.0000  bottom
+C5        c6nf100         c6nf100_electronic_capacitor_0603_100_nano_farad                                   90.9118   -36.5760  180.0000  bottom
+C6        c6nf100         c6nf100_electronic_capacitor_0603_100_nano_farad                                   90.9118   -39.0860  180.0000  bottom
+C7        c6nf100         c6nf100_electronic_capacitor_0603_100_nano_farad                                   90.9118   -41.5960  180.0000  bottom
+D1        dssod123pmb2    dssod123pmb2_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520         104.3868   -39.1160  180.0000  bottom
+R5        r6o102          r6o102_electronic_resistor_0603_1000_ohm                                           82.8918   -36.5760  180.0000  bottom
+R6        r6o102          r6o102_electronic_resistor_0603_1000_ohm                                           82.8918   -39.0860  180.0000  bottom
+R7        r6o102          r6o102_electronic_resistor_0603_1000_ohm                                           82.8918   -41.5960  180.0000  bottom
+U2        pms22311171d5v  pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt                       107.5940   -68.0720  180.0000  bottom
+U3        isp16ch340g     isp16ch340g_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g      96.4348   -52.2640  180.0000  bottom
+X2        xcr3213mhz12    xcr3213mhz12_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz    95.1998   -63.8690  180.0000  bottom
 ## End
