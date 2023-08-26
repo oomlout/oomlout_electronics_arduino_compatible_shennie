@@ -1,0 +1,32 @@
+### Footprint positions - created on Sat Aug 26 17:56:27 2023 ###
+### Printed by KiCad version 7.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                                                               PosX       PosY       Rot  Side
+C1        catuf4d716v     catuf4d716v_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt       31.3220   -77.7240    0.0000  top
+C2        catuf4d716v     catuf4d716v_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt       30.8140   -81.7880    0.0000  top
+C3        c6nf10          c6nf10_electronic_capacitor_0603_10_nano_farad                                     56.3880   -79.2480    0.0000  top
+C4        c6nf100         c6nf100_electronic_capacitor_0603_100_nano_farad                                   45.2120   -44.1960    0.0000  top
+C5        c6pf22          c6pf22_electronic_capacitor_0603_22_pico_farad                                     29.1970   -46.7360    0.0000  top
+C6        c6pf22          c6pf22_electronic_capacitor_0603_22_pico_farad                                     27.4320   -43.1800    0.0000  top
+C7        c6pf22          c6pf22_electronic_capacitor_0603_22_pico_farad                                     39.3830   -95.5040    0.0000  top
+C8        c6pf22          c6pf22_electronic_capacitor_0603_22_pico_farad                                     33.5280   -91.9480    0.0000  top
+C9        c6nf100         c6nf100_electronic_capacitor_0603_100_nano_farad                                   41.6560   -50.2920    0.0000  top
+J1        itq32at328      itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur            41.6560   -50.2920   90.0000  top
+J2        pms22311171d5v  pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt                        45.2120   -78.7400    0.0000  top
+J3        scumnsmo        scumnsmo_electronic_socket_usb_mini_surface_mount_only                             42.3360   -61.6160    0.0000  top
+J4        b3560s          b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount                      41.1480   -39.1160    0.0000  top
+J5        hi12x3p         hi12x3p_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin                      39.1160   -21.8440   90.0000  top
+L1        l6r             l6r_electronic_led_0603_red                                                        38.1000   -26.6955   90.0000  top
+L2        l6r             l6r_electronic_led_0603_red                                                        41.1480   -26.6445   90.0000  top
+L3        l6r             l6r_electronic_led_0603_red                                                        43.6880   -26.6445   90.0000  top
+L4        l6r             l6r_electronic_led_0603_red                                                        46.2280   -26.6445   90.0000  top
+R1        r6o102          r6o102_electronic_resistor_0603_1000_ohm                                           38.1000   -30.2890   90.0000  top
+R2        r6o102          r6o102_electronic_resistor_0603_1000_ohm                                           41.1480   -30.2890   90.0000  top
+R3        r6o102          r6o102_electronic_resistor_0603_1000_ohm                                           43.6880   -30.4800   90.0000  top
+R4        r6o102          r6o102_electronic_resistor_0603_1000_ohm                                           46.2280   -30.4800   90.0000  top
+U1        bbat328         bbat328_electronic_breakout_board_mcu_atmega328_shennie                            34.2900   -25.8290    0.0000  top
+U2        isp16ch340g     isp16ch340g_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g      47.2440   -89.9160    0.0000  top
+x1        xcr3213mhz16    xcr3213mhz16_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz    36.0680   -45.2120    0.0000  top
+x2        xcr3213mhz12    xcr3213mhz12_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz    39.4400   -90.9320    0.0000  top
+## End
