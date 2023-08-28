@@ -1,6 +1,8 @@
 working-backups/
 Backup_
 _autosave
+backup
+autosave
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
