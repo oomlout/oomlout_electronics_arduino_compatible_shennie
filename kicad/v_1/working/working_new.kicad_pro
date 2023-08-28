@@ -215,8 +215,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "working_new.step",
+      "vrml": "working_new.wrl"
     },
     "page_layout_descr_file": ""
   },

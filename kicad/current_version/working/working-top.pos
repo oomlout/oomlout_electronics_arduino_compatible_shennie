@@ -1,20 +1,20 @@
-### Footprint positions - created on Sat Aug 26 22:35:37 2023 ###
+### Footprint positions - created on Mon Aug 28 19:23:53 2023 ###
 ### Printed by KiCad version 7.0.6
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val           Package                                                                               PosX       PosY       Rot  Side
-B1        b3560s        b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount                      52.4470   -66.0330    0.0000  top
-J1        bbat328       bbat328_electronic_breakout_board_mcu_atmega328_shennie                            29.8970   -34.5030    0.0000  top
-J2        hi12x3p       hi12x3p_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin                      61.5270   -44.0430    0.0000  top
-J3        scumnsmo      scumnsmo_electronic_socket_usb_mini_surface_mount_only                             53.5970   -34.7930    0.0000  top
-L1_RX1    l6r           l6r_electronic_led_0603_red                                                        59.7670   -64.7030    0.0000  top
-L2_TX1    l6r           l6r_electronic_led_0603_red                                                        59.7670   -67.2930    0.0000  top
-L3_POW1   l6r           l6r_electronic_led_0603_red                                                        59.7670   -69.8830    0.0000  top
-L4_L1     l6r           l6r_electronic_led_0603_red                                                        59.7670   -72.4730    0.0000  top
-R1        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                           69.0880   -32.5120    0.0000  top
-R2        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                           69.0880   -35.0220    0.0000  top
-R3        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                           74.8670   -35.5600    0.0000  top
-R4        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                           73.0980   -30.0020    0.0000  top
-U1        itq32at328    itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur             0.0000     6.0500    0.0000  top
-X1        xcr3213mhz16  xcr3213mhz16_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz    64.3320   -65.1680    0.0000  top
+B1        b3560s        b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount                       0.0000     4.4450    0.0000  top
+J1        bbat328       bbat328_electronic_breakout_board_mcu_atmega328_shennie                            -7.6200    17.7800    0.0000  top
+J2        hi12x3p       hi12x3p_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin                       2.5400    20.3200  -90.0000  top
+J3        scumnsmo      scumnsmo_electronic_socket_usb_mini_surface_mount_only                              0.0000   -16.9120    0.0000  top
+L1_RX1    l6r           l6r_electronic_led_0603_red                                                        -3.0000    12.0000   90.0000  top
+L2_TX1    l6r           l6r_electronic_led_0603_red                                                        -1.0000    12.0000   90.0000  top
+L3_POW1   l6r           l6r_electronic_led_0603_red                                                         1.0000    12.0000  -90.0000  top
+L4_L1     l6r           l6r_electronic_led_0603_red                                                         3.0000    12.0000  -90.0000  top
+R1        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                           -3.0000     9.0000  -90.0000  top
+R2        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                           -1.0000     9.0000  -90.0000  top
+R3        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                            1.0000     9.0000  -90.0000  top
+R4        r6o102        r6o102_electronic_resistor_0603_1000_ohm                                            3.0000     9.0000  -90.0000  top
+U1        itq32at328    itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur             0.0000    -6.3500  -45.0000  top
+X1        xcr3213mhz16  xcr3213mhz16_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz    -3.3485     0.1515   45.0000  top
 ## End
