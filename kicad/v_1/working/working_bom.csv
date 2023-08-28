@@ -1,0 +1,16 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"L4,L2,L3,L1";"l6r_electronic_led_0603_red";4;"l6r";;;
+2;"U2";"isp16ch340g_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g";1;"isp16ch340g";;;
+3;"R2,R1,R3,R4";"r6o102_electronic_resistor_0603_1000_ohm";4;"r6o102";;;
+4;"x2";"xcr3213mhz12_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz";1;"xcr3213mhz12";;;
+5;"x1";"xcr3213mhz16_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_16_mega_hertz";1;"xcr3213mhz16";;;
+6;"C3";"c6nf10_electronic_capacitor_0603_10_nano_farad";1;"c6nf10";;;
+7;"C1,C2";"catuf4d716v_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt";2;"catuf4d716v";;;
+8;"C4,C9";"c6nf100_electronic_capacitor_0603_100_nano_farad";2;"c6nf100";;;
+9;"C8,C5,C6,C7";"c6pf22_electronic_capacitor_0603_22_pico_farad";4;"c6pf22";;;
+10;"U1";"bbat328_electronic_breakout_board_mcu_atmega328_shennie";1;"bbat328";;;
+11;"J2";"pms22311171d5v_electronic_pmic_sot_223_linear_1117_1_5_volt";1;"pms22311171d5v";;;
+12;"J5";"hi12x3p_electronic_header_2d54_mm_dual_row_2x3_dual_row_6_pin";1;"hi12x3p";;;
+13;"J4";"b3560s_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount";1;"b3560s";;;
+14;"J3";"scumnsmo_electronic_socket_usb_mini_surface_mount_only";1;"scumnsmo";;;
+15;"J1";"itq32at328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_aur";1;"itq32at328";;;
